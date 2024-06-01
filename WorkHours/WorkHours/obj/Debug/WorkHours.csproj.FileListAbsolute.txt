@@ -1,0 +1,7 @@
+C:\Users\harve\Desktop\WorkHours\WorkHours\WorkHours\obj\Debug\WorkHours.csproj.AssemblyReference.cache
+C:\Users\harve\Desktop\WorkHours\WorkHours\WorkHours\obj\Debug\WorkHours.csproj.CoreCompileInputs.cache
+C:\Users\harve\Desktop\WorkHours\WorkHours\WorkHours\bin\Debug\WorkHours.exe.config
+C:\Users\harve\Desktop\WorkHours\WorkHours\WorkHours\bin\Debug\WorkHours.exe
+C:\Users\harve\Desktop\WorkHours\WorkHours\WorkHours\bin\Debug\WorkHours.pdb
+C:\Users\harve\Desktop\WorkHours\WorkHours\WorkHours\obj\Debug\WorkHours.exe
+C:\Users\harve\Desktop\WorkHours\WorkHours\WorkHours\obj\Debug\WorkHours.pdb
