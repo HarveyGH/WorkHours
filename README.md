@@ -9,7 +9,8 @@ Data Aggregation and Reporting:
 
 Total Work Hours Calculation: It calculates the total work hours, which is essential for project management and HR purposes.
 Average Work Hours Analysis: It computes the average work hours to help management understand the average workload of employees and identify overload or inefficiency issues.
-Benefits
+
+
 **Efficient Simulation Tool:**
 
 Quick Simulation: It can quickly generate simulated data for analysis and decision support.
